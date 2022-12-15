@@ -32,3 +32,5 @@ DAY 014 :- If Else Conditional Statements in Python
 DAY 015 :- Exercise 2: Good Morning Sir
 
 DAY 016 :- Match Case Statements in Python
+
+DAY 017 :- For Loops in Python
