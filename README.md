@@ -40,3 +40,5 @@ DAY 018 :- While Loops in Python
 DAY 019 :- break and continue in Python
 
 DAY 020 :- Functions in Python
+
+DAY 021 :- Function Arguments in Python
