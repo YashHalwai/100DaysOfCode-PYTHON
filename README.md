@@ -38,3 +38,5 @@ DAY 017 :- For Loops in Python
 DAY 018 :- While Loops in Python
 
 DAY 019 :- break and continue in Python
+
+DAY 020 :- Functions in Python
