@@ -42,3 +42,5 @@ DAY 019 :- break and continue in Python
 DAY 020 :- Functions in Python
 
 DAY 021 :- Function Arguments in Python
+
+DAY 022 :- Introduction to Lists in Python
