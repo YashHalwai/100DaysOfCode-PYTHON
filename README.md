@@ -45,4 +45,6 @@ DAY 021 :- Function Arguments in Python
 
 DAY 022 :- Introduction to Lists in Python
 
-DAY 022 :- List Methods in Python
+DAY 023 :- List Methods in Python
+
+DAY 024 :- Tuples in Python
