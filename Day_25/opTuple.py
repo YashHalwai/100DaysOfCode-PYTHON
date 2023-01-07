@@ -23,6 +23,6 @@
 # print("Count of 1 in tuple1 is", cnt)
 
 
-# tuple1 = (1, 5, 6, 7, 8, 1, 2, 5, 6)
+# tuple2 = (1, 5, 6, 7, 8, 1, 2, 5, 6)
 # indx = tuple1.index(1)
-# print("Index of 1 in tuple1 is", indx)
+# print("Index of 1 in tuple2 is", indx)
