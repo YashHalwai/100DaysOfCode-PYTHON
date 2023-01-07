@@ -48,3 +48,5 @@ DAY 022 :- Introduction to Lists in Python
 DAY 023 :- List Methods in Python
 
 DAY 024 :- Tuples in Python
+
+DAY 025 :- Operations on Tuples in Python
