@@ -50,3 +50,5 @@ DAY 023 :- List Methods in Python
 DAY 024 :- Tuples in Python
 
 DAY 025 :- Operations on Tuples in Python
+
+DAY 026 :- Exercise 2: Solution & Shoutouts
