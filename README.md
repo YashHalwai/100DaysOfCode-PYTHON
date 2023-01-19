@@ -54,3 +54,5 @@ DAY 025 :- Operations on Tuples in Python
 DAY 026 :- Exercise 2: Solution & Shoutouts
 
 DAY 027 :- Exercise 3: Kaun Banega Crorepati (KBC)
+
+DAY 028 :- f-strings in Python
