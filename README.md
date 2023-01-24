@@ -76,3 +76,5 @@ Day 036 :- Exception Handling in Python
 Day 037 :- Finally keyword in Python
 
 Day 038 :- Raising custom errors in Python
+
+Day 039 :- Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts
