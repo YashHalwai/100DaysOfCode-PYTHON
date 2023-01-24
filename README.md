@@ -70,3 +70,5 @@ Day 033 :- Dictionaries in Python
 Day 034 :- Dictionary Methods in Python
 
 Day 035 :- for Loop with else in Python
+
+Day 036 :- Exception Handling in Python
