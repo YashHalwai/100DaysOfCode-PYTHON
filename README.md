@@ -82,3 +82,5 @@ Day 039 :- Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts
 Day 040 :- Exercise 4: Secret Code Language
 
 Day 041 :- Short hand if else statements
+
+Day 042 :- Enumerate Function in Python
