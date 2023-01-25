@@ -31,7 +31,9 @@ D = random.choice([1,2,4,5])
 print(C)
 print(D)
 F = int(input ("enter the no :"))
-if  ( F==C+D) :
+if  (F==C+D) :
     print(a)
 else :
    print("you are wrong")
+   
+# DONE   
