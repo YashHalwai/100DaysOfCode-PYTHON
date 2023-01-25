@@ -1,3 +1,7 @@
+# Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts | Python Tutorial - Day #39
+
+# https://www.youtube.com/watch?v=nyfeYAxP-EM&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=39
+
 questions = [
   [
     "Which language was used to create fb?", "Python", "French", "JavaScript",
