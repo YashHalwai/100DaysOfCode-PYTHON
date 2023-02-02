@@ -6,7 +6,7 @@
 st = input("Enter message: ")
 
 words = st.split(" ")
-coding = input("1 for coding 0 for decoding: ")
+coding = input("1 for coding 0 for decoding:")
 coding == True if (coding == "1") else False
 print(coding)
 
