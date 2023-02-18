@@ -92,3 +92,5 @@ Day 044 :- How import works in Python
 Day 045 :- if __name__ == "__main__" in Python
 
 Day 046 :- os Module in Python
+
+Day 047 :- Exercise 4: Solutions and Shoutouts
