@@ -96,3 +96,5 @@ Day 046 :- os Module in Python
 Day 047 :- Exercise 4: Solutions and Shoutouts
 
 Day 048 :- Local vs Global Variables in Python
+
+Day 049 :- File IO in Python
