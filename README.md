@@ -102,3 +102,5 @@ Day 049 :- File IO in Python
 Day 050 :- read(), readlines() and other methods 
 
 Day 051 :- seek(), tell() and other functions
+
+Day 052 :- Lambda functions in Python
