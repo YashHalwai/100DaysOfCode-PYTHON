@@ -104,3 +104,5 @@ Day 050 :- read(), readlines() and other methods
 Day 051 :- seek(), tell() and other functions
 
 Day 052 :- Lambda functions in Python
+
+Day 053 :- Map, Filter and Reduce in Python
