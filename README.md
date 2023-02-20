@@ -106,3 +106,5 @@ Day 051 :- seek(), tell() and other functions
 Day 052 :- Lambda functions in Python
 
 Day 053 :- Map, Filter and Reduce in Python
+
+Day 054 :- 'is' vs '==' in Python 
