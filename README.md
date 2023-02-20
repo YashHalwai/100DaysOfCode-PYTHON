@@ -100,3 +100,5 @@ Day 048 :- Local vs Global Variables in Python
 Day 049 :- File IO in Python
 
 Day 050 :- read(), readlines() and other methods 
+
+Day 051 :- seek(), tell() and other functions
