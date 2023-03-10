@@ -118,3 +118,5 @@ Day 057 :- Classes and Objects in Python
 Day 058 :- Constructors in Python
 
 Day 059 :- Decorators in Python
+
+Day 060 :- Getters and Setters in Python
