@@ -122,3 +122,5 @@ Day 059 :- Decorators in Python
 Day 060 :- Getters and Setters in Python
 
 Day 061 :- Inheritance in Python
+
+Day 062 :- Access Modifiers in Python
