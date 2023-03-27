@@ -126,3 +126,5 @@ Day 061 :- Inheritance in Python
 Day 062 :- Access Modifiers in Python
 
 Day 063 :- Exercise 6 - Library Management System in Python
+
+Day 065 :- Static Methods in Python
