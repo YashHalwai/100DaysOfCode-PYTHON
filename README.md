@@ -134,3 +134,5 @@ Day 066 :- Instance variables vs Class variables in Python
 Day 067 :- Exercise 6 Solution - Library Management Software in Python
 
 Day 068 :- Exercise 7 - Clear the Clutter | Python Tutorial - Day #68
+
+Day 069 :- Class Methods in Python | Python Tutorial - Day #69
