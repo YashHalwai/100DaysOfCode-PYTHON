@@ -130,3 +130,5 @@ Day 063 :- Exercise 6 - Library Management System in Python
 Day 065 :- Static Methods in Python
 
 Day 066 :- Instance variables vs Class variables in Python
+
+Day 067 :- Exercise 6 Solution - Library Management Software in Python
