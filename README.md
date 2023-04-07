@@ -136,3 +136,5 @@ Day 067 :- Exercise 6 Solution - Library Management Software in Python
 Day 068 :- Exercise 7 - Clear the Clutter | Python Tutorial - Day #68
 
 Day 069 :- Class Methods in Python | Python Tutorial - Day #69
+
+Day 070 :- Class Methods as Alternative Constructors in Python | Python Tutorial - Day #70
