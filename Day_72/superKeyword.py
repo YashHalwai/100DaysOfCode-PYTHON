@@ -23,4 +23,3 @@ harry = Programmer("Harry", "2345", "Python")
 print(harry.name)
 print(harry.id)
 print(harry.lang)
-                
