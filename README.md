@@ -144,3 +144,5 @@ Day 071 :- dir, __dict__ and help method in Python | Python Tutorial - Day #71
 Day 072 :- super keyword in Python | Python Tutorial - Day #72
 
 Day 073 :-  Magic/Dunder Methods in Python | Python Tutorial - Day #73
+
+Day 074 :- Method Overriding in Python | Python Tutorial - Day #74
