@@ -9,4 +9,4 @@ class Employee:
         return i    
     
     def __str__(self):
-        return f"The name of employee is {self.name}"
+        return f"The name of employee is {self.name}."
