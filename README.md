@@ -139,4 +139,6 @@ Day 069 :- Class Methods in Python | Python Tutorial - Day #69
 
 Day 070 :- Class Methods as Alternative Constructors in Python | Python Tutorial - Day #70
 
-Day 071 :- dir, __dict__ and help method in Python
+Day 071 :- dir, __dict__ and help method in Python | Python Tutorial - Day #71
+
+Day 072 :- super keyword in Python | Python Tutorial - Day #72
