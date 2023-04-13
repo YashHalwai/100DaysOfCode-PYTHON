@@ -146,3 +146,5 @@ Day 072 :- super keyword in Python | Python Tutorial - Day #72
 Day 073 :-  Magic/Dunder Methods in Python | Python Tutorial - Day #73
 
 Day 074 :- Method Overriding in Python | Python Tutorial - Day #74
+
+Day 075 :- Exercise 7 Solution + Shoutouts | Python Tutorial - Day #75
