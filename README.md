@@ -143,10 +143,12 @@ Day 071 :- dir, __dict__ and help method in Python | Python Tutorial - Day #71
 
 Day 072 :- super keyword in Python | Python Tutorial - Day #72
 
-Day 073 :-  Magic/Dunder Methods in Python | Python Tutorial - Day #73
+Day 073 :- Magic/Dunder Methods in Python | Python Tutorial - Day #73
 
 Day 074 :- Method Overriding in Python | Python Tutorial - Day #74
 
 Day 075 :- Exercise 7 Solution + Shoutouts | Python Tutorial - Day #75
 
-Day 076 :- # Exercise 8 - Merge the PDF | Python Tutorial - Day #76
+Day 076 :- Exercise 8 - Merge the PDF | Python Tutorial - Day #76
+
+Day 077 :- Operator Overloading in Python | Python Tutorial - Day #77
