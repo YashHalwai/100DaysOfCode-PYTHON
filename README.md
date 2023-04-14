@@ -152,3 +152,5 @@ Day 075 :- Exercise 7 Solution + Shoutouts | Python Tutorial - Day #75
 Day 076 :- Exercise 8 - Merge the PDF | Python Tutorial - Day #76
 
 Day 077 :- Operator Overloading in Python | Python Tutorial - Day #77
+
+Day 078 :- Single Inheritance in Python | Python Tutorial - Day #78
