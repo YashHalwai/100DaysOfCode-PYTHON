@@ -148,3 +148,5 @@ Day 073 :-  Magic/Dunder Methods in Python | Python Tutorial - Day #73
 Day 074 :- Method Overriding in Python | Python Tutorial - Day #74
 
 Day 075 :- Exercise 7 Solution + Shoutouts | Python Tutorial - Day #75
+
+Day 076 :- # Exercise 8 - Merge the PDF | Python Tutorial - Day #76
