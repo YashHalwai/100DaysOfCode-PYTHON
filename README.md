@@ -175,4 +175,6 @@ Day 087 :- Shutil Module in Python | Python Tutorial - Day #87
 
 Day 088 :- Exercise 9: Solution - Shoutouts to Everyone | Python Tutorial - Day #88
 
-Day 090 :- Requests Module in Python | Python Tutorial - Day #89
+Day 089 :- Requests Module in Python | Python Tutorial - Day #89
+
+Day 090 :- Exercise 10: News App in Python | Python Tutorial - Day #90
