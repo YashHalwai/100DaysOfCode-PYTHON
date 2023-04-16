@@ -172,3 +172,5 @@ Day 085 :- Creating command line utility in python | Python Tutorial - Day #85
 Day 086 :- Walrus Operator in Python | Python Tutorial - Day #86
 
 Day 087 :- Shutil Module in Python | Python Tutorial - Day #87
+
+Day 088 :- Exercise 9: Solution - Shoutouts to Everyone | Python Tutorial - Day #88
