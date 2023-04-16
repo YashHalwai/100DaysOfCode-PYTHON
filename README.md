@@ -160,3 +160,5 @@ Day 079 :- Multiple Inheritance in Python | Python Tutorial - Day #79
 Day 080 :- Multilevel Inheritance in Python | Python Tutorial - Day #80
 
 Day 081 :- Hybrid and Hierarchical Inheritance in Python | Python Tutorial - Day #81
+
+Day 082 :- Exercise 8 - Merge the Pdf Solution in Python | Python Tutorial - Day #82
