@@ -168,3 +168,5 @@ Day 083 :- Exercise 9 - Shoutouts to Everyone | Python Tutorial - Day #83
 Day 084 :- Time Module in Python | Python Tutorial - Day #84
 
 Day 085 :- Creating command line utility in python | Python Tutorial - Day #85
+
+Day 086 :- Walrus Operator in Python | Python Tutorial - Day #86
