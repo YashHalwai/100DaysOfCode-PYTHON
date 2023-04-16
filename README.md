@@ -174,3 +174,5 @@ Day 086 :- Walrus Operator in Python | Python Tutorial - Day #86
 Day 087 :- Shutil Module in Python | Python Tutorial - Day #87
 
 Day 088 :- Exercise 9: Solution - Shoutouts to Everyone | Python Tutorial - Day #88
+
+Day 090 :- Requests Module in Python | Python Tutorial - Day #89
