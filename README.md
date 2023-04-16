@@ -164,3 +164,5 @@ Day 081 :- Hybrid and Hierarchical Inheritance in Python | Python Tutorial - Day
 Day 082 :- Exercise 8 - Merge the Pdf Solution in Python | Python Tutorial - Day #82
 
 Day 083 :- Exercise 9 - Shoutouts to Everyone | Python Tutorial - Day #83
+
+Day 084 :- Time Module in Python | Python Tutorial - Day #84
