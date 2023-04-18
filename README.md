@@ -183,4 +183,6 @@ Day 091 :- Generators in Python | Python Tutorial - Day #91
 
 Day 092 :- Function Caching in Python | Python Tutorial - Day #92
 
-DAy 093 :- Exercise 10 - News App Solution & Shoutout | Python Tutorial - Day #93
+Day 093 :- Exercise 10 - News App Solution & Shoutout | Python Tutorial - Day #93
+
+Day 094 :- Exercise 11 - Drink Water Reminder | Python Tutorial - Day #94
