@@ -186,3 +186,7 @@ Day 092 :- Function Caching in Python | Python Tutorial - Day #92
 Day 093 :- Exercise 10 - News App Solution & Shoutout | Python Tutorial - Day #93
 
 Day 094 :- Exercise 11 - Drink Water Reminder | Python Tutorial - Day #94
+
+Day 095 :- Regular Expressions in Python | Python Tutorial - Day #95
+
+Day 096 :- AsyncIO in Python | Python Tutorial - Day #96
