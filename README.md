@@ -192,3 +192,5 @@ Day 095 :- Regular Expressions in Python | Python Tutorial - Day #95
 Day 096 :- AsyncIO in Python | Python Tutorial - Day #96
 
 Day 097 :- Multithreading in Python | Python Tutorial - Day #97
+
+Day 098 :- MultiProcessing in Python | Python Tutorial - Day #98
